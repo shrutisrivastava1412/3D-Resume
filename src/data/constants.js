@@ -2,10 +2,9 @@ export const Bio = {
   name: "Shruti",
   roles: [
     "SecOps Engineer II",
-    "AI Security",
-    "Application Security",
-    "DevSecOps",
-    "Security Automation"
+    "AI Security Engineer",
+    "Application Security Engineer",
+    "DevSecOps Engineer"
   ],
   description:
     "AI Security‑focused Security Engineer II with 3+ years of experience across Application Security, DevSecOps, Security Automation, and Cloud Security. Proven experience securing production environments, designing AI security frameworks, and implementing continuous AppSec scanning pipelines. Experienced in LLM security testing, prompt injection testing, model data leakage testing, and threat modeling for AI platforms and enterprise applications. Strong background in cloud-native security, CI/CD security, and automated vulnerability management. CEH v13 certified professional with hands‑on experience in AWS, GCP, Azure, Kubernetes, and security automation using Python.",
